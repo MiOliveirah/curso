@@ -1,2 +1,0 @@
-# curso
-Sistema Bancário
